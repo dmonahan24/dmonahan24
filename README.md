@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]
 -->
 
-I am a software developer and project manager from Florida.
-- 🔭 Currently working on a wide range or projects varying from front end web design to cloud infrastructure and IaC with AWS.
-- 🌱 Learning to design more complex apps using React and NodeJS.
+I am a software developer and project manager living in Florida.
 <br>
 ## Connect with me
 <br>
