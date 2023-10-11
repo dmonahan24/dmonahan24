@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 I am a software developer and project manager living in Florida.
 <br>
-## Connect with me
-<br>
 <div>
 <a href="https://www.linkedin.com/in/dave-monahan">
 <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
